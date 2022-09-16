@@ -4,7 +4,7 @@
 int N = Convert.ToInt32(Console.ReadLine());
 if (N > 0)
 {
-    for (int i = 1; i <= n; i = i + 1)
+    for (int i = 1; i <= N; i = i + 1)
     Console.Write("{0}, ",i*i*i);
 } else
 {
