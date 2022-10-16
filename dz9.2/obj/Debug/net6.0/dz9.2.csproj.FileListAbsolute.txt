@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GeekBrains\C sharp\dz9.2\bin\Debug\net6.0\dz9.2.exe
+C:\Users\user\Desktop\GeekBrains\C sharp\dz9.2\bin\Debug\net6.0\dz9.2.deps.json
+C:\Users\user\Desktop\GeekBrains\C sharp\dz9.2\bin\Debug\net6.0\dz9.2.runtimeconfig.json
+C:\Users\user\Desktop\GeekBrains\C sharp\dz9.2\bin\Debug\net6.0\dz9.2.dll
+C:\Users\user\Desktop\GeekBrains\C sharp\dz9.2\bin\Debug\net6.0\dz9.2.pdb
+C:\Users\user\Desktop\GeekBrains\C sharp\dz9.2\obj\Debug\net6.0\dz9.2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GeekBrains\C sharp\dz9.2\obj\Debug\net6.0\dz9.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GeekBrains\C sharp\dz9.2\obj\Debug\net6.0\dz9.2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GeekBrains\C sharp\dz9.2\obj\Debug\net6.0\dz9.2.AssemblyInfo.cs
+C:\Users\user\Desktop\GeekBrains\C sharp\dz9.2\obj\Debug\net6.0\dz9.2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GeekBrains\C sharp\dz9.2\obj\Debug\net6.0\dz9.2.dll
+C:\Users\user\Desktop\GeekBrains\C sharp\dz9.2\obj\Debug\net6.0\refint\dz9.2.dll
+C:\Users\user\Desktop\GeekBrains\C sharp\dz9.2\obj\Debug\net6.0\dz9.2.pdb
+C:\Users\user\Desktop\GeekBrains\C sharp\dz9.2\obj\Debug\net6.0\dz9.2.genruntimeconfig.cache
+C:\Users\user\Desktop\GeekBrains\C sharp\dz9.2\obj\Debug\net6.0\ref\dz9.2.dll
